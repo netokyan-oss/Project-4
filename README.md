@@ -2,8 +2,11 @@
 # Programming – Guillotine
 
 **Course:** CSC2820 – Data Structures 
+
 **Student:** Kyan Abreu Rezende Neto
+
 **Language:** Java  
+
 **IDE:** Visual Studio Code
 
 #1 Project Description:**
